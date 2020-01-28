@@ -23,7 +23,7 @@ const ProfileStartArtImgStyle = styled.img`
   margin: 1rem;
   margin-left: 5rem;
   padding: 2rem;
-  z-index: 5;
+  z-index: 0;
   animation: ${FadeFromTop} ease 2.5s;
 
   @media (max-width: 768px) {
